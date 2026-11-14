@@ -1,3 +1,7 @@
+can-ids/target/
+data/
+__pycache__/
+
 .env
 .env.*
 !.env.example
@@ -13,6 +17,5 @@ credentials*.json
 .npmrc
 .pypirc
 node_modules/
-__pycache__/
 .venv/
 venv/
